@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkSVsXG7qnOuOjW9QuWRg+Us4xJh+eiqzkKc5edOdO138PMTMCBcSEPtZD6NJB6bJOFh7lv10sSvd90sxIiOtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TIEDT\\Desktop\\estudos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIEDT\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
